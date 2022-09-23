@@ -8,7 +8,7 @@
   <title>Botire Digital Solutions</title>
   <meta content="We offer digital solutions for growing your business" name="description">
 
-<meta content="botire,software company,digital solutions,iringallur,vengara,web design,software company in iringallur,software company in vengara" name="keywords">
+<meta content="web,botire,software company,digital solutions,iringallur,vengara,web design,software company in iringallur,software company in vengara" name="keywords">
   
   <meta property="og:image" content="https://botire.in/../img/apple-touch-icon.png"> 
  
